@@ -4,7 +4,7 @@ A demo of a live comment application with sentiment analysis using Nest.js and P
 
 Screenshot of the demo app
 
-![chat-app](https://user-images.githubusercontent.com/19610753/39476135-d79005d6-4d52-11e8-9e9c-ecb3430cfb5d.gif)
+![live-comment](https://user-images.githubusercontent.com/19610753/39490894-4c09b112-4d82-11e8-9cbb-a2b9186aaa11.gif)
 
 
 ## Getting Started
