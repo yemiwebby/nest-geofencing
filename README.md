@@ -11,12 +11,12 @@ Screenshot of the demo app
 
 ### Clone the repository
 ```bash
-$ git clone 
+$ git clone https://github.com/yemiwebby/live-comments-nest.git
 ```
 
 ### Change directory
 ```bash
-$ cd 
+$ cd live-comments-nest
 ```
 
 ### Install dependencies

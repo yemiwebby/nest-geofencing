@@ -12,7 +12,6 @@ export class CommentService {
         const sentimentScore = sentiment.analyze(data.comment).score;
 
         const payload = {
-            user: data.user,
             message: data.comment,
             sentiment: sentimentScore
         }

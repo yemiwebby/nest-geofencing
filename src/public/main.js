@@ -6,9 +6,7 @@ const NEUTRAL_EMOJI = [55357, 56848];
 new Vue({
     el: '#app',
     data: {
-        comments: [],
-        user: '',
-        mood:''
+        comments: []
     },
     created() {
         let pusher = new Pusher('YOUR_API_KEY', {
@@ -33,7 +31,6 @@ new Vue({
 
             if (event.keyCode === 13 ) {
                 const comment = {
-                    user: "Anonymous",
                     comment: message,
                 };
 
