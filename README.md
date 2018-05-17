@@ -37,9 +37,6 @@ $ cd nest-geofencing
 $ npm install
 ```
 
-## Prerequisites
-A basic knowledge of TypeScript and Node.js
-
 ## Built With
 
 * [Nest.js](https://nestjs.com/) - A progressive Node.js framework for building efficient and scalable server-side applications.
