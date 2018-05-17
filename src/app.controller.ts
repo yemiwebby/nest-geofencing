@@ -1,9 +1,10 @@
-import { Get, Controller, Res } from '@nestjs/common';
+import { Get, Controller, Res, HttpStatus } from '@nestjs/common';
 
 @Controller()
 export class AppController {
+
   @Get()
-  root(@Res() res) {
+  getUsers(@Res() res) {
     res.render('index');
   }
 }
