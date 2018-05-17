@@ -1,4 +1,4 @@
-## Realtime geofencing update using Nest.js, Pusher and Google Maps
+## Realtime geofencing update using Nest.js, Pusher and GoogleMaps API
 
 This project contains the source code for the demo of a realtime location aware application with geofencing updates.
 
