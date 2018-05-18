@@ -106,7 +106,7 @@ new Vue({
         },
 
         loadMoreUsers() {
-            window.location.reload();
+            this.getUser();
         }
     }
 })
