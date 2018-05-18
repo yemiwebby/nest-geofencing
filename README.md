@@ -2,7 +2,7 @@
 
 This project contains the source code for the demo of a realtime location aware application with geofencing updates.
 
-Screeshot of the demo:
+Screenshot of the demo:
 
 ![Geofencing Nest.js Demo](https://user-images.githubusercontent.com/19610753/40195978-0ac3c2f6-5a07-11e8-97ad-cebca2e882d5.png)
 
