@@ -1,5 +1,4 @@
 import { Component } from '@nestjs/common';
-const uuid = require('uuid').v4;
 import people from './users';
 
 
