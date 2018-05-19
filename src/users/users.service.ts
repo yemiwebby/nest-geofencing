@@ -1,5 +1,5 @@
 import { Component } from '@nestjs/common';
-import people from './users';
+const people = require('./users');
 
 
 @Component()
@@ -17,7 +17,7 @@ export class UsersService {
         const pusher = new Pusher({
             appId: 'YOUR_APP_ID',
             key: 'YOUR_API_KEY',
-            secret: 'YOUR_SECRET_KEY',
+            secret: 'YOUR_APP_SECRET',
             cluster: 'CLUSTER',
             encrypted: true
         });

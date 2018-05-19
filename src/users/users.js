@@ -63,4 +63,4 @@ const people = [
     }
 ]
 
-export default people;
+module.exports = people;
